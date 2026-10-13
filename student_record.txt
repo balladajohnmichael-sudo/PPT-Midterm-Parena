@@ -1,0 +1,6 @@
+STUDENT RECORD
+Name: John Michael Parena
+Course: BSCS
+Year Level: 3rd Year
+Favorite Programming Language: Java
+Career Goal: Comp Sci
